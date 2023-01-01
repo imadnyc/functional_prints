@@ -11,4 +11,6 @@ For connecting different parts, what should be done is a pin and hinge. The pin 
 
 Issues with this - high part count, and screwing and unscrewing relies on tension from the parts. Printing in PLA makes this warp, and to fix it the only solution is to reprint everything. Try to find something that reduces part count and is repairable.
 
-For splitting hingeOne for better printability, thinking of doing stairway cut halfway horizontal, stairway cut vertical from bottom up to that horizontal halfway and screwholes into each so they can be screwed together. I don't _think_ this is an issue with part count since the only reason I'm parting it out is so I can get better print quality, the design is still legit and I can't think of a better way of desigining hingeOne.
+For splitting hingeOne for better printability, thinking of doing stairway cut halfway horizontal, stairway cut vertical from bottom up to that horizontal halfway and screwholes into each so they can be screwed together. I don't _think_ this is an issue with part count since the only reason I'm parting it out is so I can get better print quality, the design is still legit and I can't think of a better way of desigining hingeOne
+
+Thinking about it, I could just add a split in the middle of the connecting part of base and add a hole for a nut there and then just screw in that to hingeOne. LMAO. .
